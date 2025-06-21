@@ -24,5 +24,5 @@
 Using Cheerio and Puppeteer in node.js, with an automated browser that goes through every video. Why? Youtube API does not return the amount of money donated on comments.
 
 ## Disclaimer:
-This project is a fun, e ducational experiment meant to test webscraping capabilities.
+This project is a fun, educational experiment meant to test webscraping capabilities.
 It is not affiliated with or endorsed by YouTube or Zdak.
